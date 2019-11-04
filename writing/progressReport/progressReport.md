@@ -7,4 +7,4 @@ Please place the progress report document material (text and graphics) here.
 
 ![Logo](graphics/allegheny.png)
 
-(have you remembered to add the names of your group members above?)
+(Have you remembered to add the names of your group members above?)
